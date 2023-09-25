@@ -1,22 +1,22 @@
-Nombre,Genero,Duracion,Director,Aprobacion
-The Shawshank Redemption,Drama,142,Frank Darabont,0
-Inception,Ciencia Ficción,148,Christopher Nolan,1
-Pulp Fiction,Crimen,154,Quentin Tarantino,1
-The Dark Knight,Acción,152,Christopher Nolan,1
-Forrest Gump,Drama,142,Robert Zemeckis,1
-Fight Club,Drama,139,David Fincher,1
-Gladiator,Acción,155,Ridley Scott,1
-The Matrix,Ciencia Ficción,136,The Wachowskis,1
-Titanic,Romance,195,James Cameron,1
-The Godfather,Crimen,175,Francis Ford Coppola,1
-Schindler's List,Drama,195,Steven Spielberg,1
-The Lord of the Rings: The Return of the King,Fantasía,201,Peter Jackson,1
-The Silence of the Lambs,Thriller,118,Jonathan Demme,0
-The Green Mile,Drama,189,Frank Darabont,0
-Interstellar,Ciencia Ficción,169,Christopher Nolan,1
-Goodfellas,Crimen,146,Martin Scorsese,0
-Se7en,Thriller,127,David Fincher,0
-The Departed,Crimen,151,Martin Scorsese,0
-The Prestige,Misterio,130,Christopher Nolan,0
-The Intouchables,Comedia,112,"Olivier Nakache, Eric Toledano",0
-The Great Gatsby,Drama,143,Baz Luhrmann,0
+Nombre,Genero,Duracion,Director,Rating,Aprobacion
+The Shawshank Redemption,Drama,142,Frank Darabont,9.3,0
+Inception,Ciencia Ficción,148,Christopher Nolan,8.8,1
+Pulp Fiction,Crimen,154,Quentin Tarantino,8.9,1
+The Dark Knight,Acción,152,Christopher Nolan,9.0,1
+Forrest Gump,Drama,142,Robert Zemeckis,8.8,1
+Fight Club,Drama,139,David Fincher,8.8,1
+Gladiator,Acción,155,Ridley Scott,8.5,1
+The Matrix,Ciencia Ficción,136,The Wachowskis,8.7,1
+Titanic,Romance,195,James Cameron,7.9,1
+The Godfather,Crimen,175,Francis Ford Coppola,9.2,1
+Schindler's List,Drama,195,Steven Spielberg,9.0,1
+The Lord of the Rings: The Return of the King,Fantasía,201,Peter Jackson,9.0,1
+The Silence of the Lambs,Thriller,118,Jonathan Demme,8.6,0
+The Green Mile,Drama,189,Frank Darabont,8.6,0
+Interstellar,Ciencia Ficción,169,Christopher Nolan,8.7,1
+Goodfellas,Crimen,146,Martin Scorsese,8.7,0
+Se7en,Thriller,127,David Fincher,8.6,0
+The Departed,Crimen,151,Martin Scorsese,8.5,0
+The Prestige,Misterio,130,Christopher Nolan,8.5,0
+The Intouchables,Comedia,112,"Olivier Nakache, Eric Toledano",8.5,0
+The Great Gatsby,Drama,143,Baz Luhrmann,7.2,0
