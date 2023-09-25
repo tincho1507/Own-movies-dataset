@@ -1,22 +1,22 @@
-genero,duracion,año de lanzamiento,aprobada
-Drama,142,1994,0
-Ciencia Ficción,148,2010,1
-Crimen,154,1994,1
-Acción,152,2008,1
-Drama,142,1994,1
-Drama,139,1999,1
-Acción,155,2000,1
-Ciencia Ficción,136,1999,1
-Romance,195,1997,1
-Crimen,175,1972,1
-Drama,195,1993,1
-Fantasía,201,2003,1
-Thriller,118,1991,0
-Drama,189,1999,0
-Ciencia Ficción,169,2014,1
-Crimen,146,1990,0
-Thriller,127,1995,0
-Crimen,151,2006,0
-Misterio,130,2006,0
-Comedia,112,2011,0
-Drama,143,2013,0
+Nombre,Genero,Duracion,Director,Actores,Aprobacion
+The Shawshank Redemption,Drama,142,Frank Darabont,"Tim Robbins, Morgan Freeman",0
+Inception,Ciencia Ficción,148,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",1
+Pulp Fiction,Crimen,154,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",1
+The Dark Knight,Acción,152,Christopher Nolan,"Christian Bale, Heath Ledger",1
+Forrest Gump,Drama,142,Robert Zemeckis,"Tom Hanks, Robin Wright",1
+Fight Club,Drama,139,David Fincher,"Edward Norton, Brad Pitt",1
+Gladiator,Acción,155,Ridley Scott,"Russell Crowe, Joaquin Phoenix",1
+The Matrix,Ciencia Ficción,136,The Wachowskis,"Keanu Reeves, Laurence Fishburne",1
+Titanic,Romance,195,James Cameron,"Leonardo DiCaprio, Kate Winslet",1
+The Godfather,Crimen,175,Francis Ford Coppola,"Marlon Brando, Al Pacino",1
+Schindler's List,Drama,195,Steven Spielberg,"Liam Neeson, Ralph Fiennes",1
+The Lord of the Rings: The Return of the King,Fantasía/Aventura,201,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",1
+The Silence of the Lambs,Thriller,118,Jonathan Demme,"Jodie Foster, Anthony Hopkins",0
+The Green Mile,Drama,189,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",0
+Interstellar,Ciencia Ficción,169,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",1
+Goodfellas,Crimen,146,Martin Scorsese,"Robert De Niro, Ray Liotta",0
+Se7en,Thriller,127,David Fincher,"Brad Pitt, Morgan Freeman",0
+The Departed,Crimen,151,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",0
+The Prestige,Misterio,130,Christopher Nolan,"Hugh Jackman, Christian Bale",0
+The Intouchables,Comedia,112,"Olivier Nakache, Eric Toledano","François Cluzet, Omar Sy",0
+The Great Gatsby,Drama,143,Baz Luhrmann,"Leonardo DiCaprio, Tobey Maguire",0
